@@ -7,7 +7,7 @@ organisations:
           - sophia-codes
         repositories:
           payments-api: write
-          orders-service: read
+          orders-service : read
       frontend-devs:
         members:
           - emily-ui
