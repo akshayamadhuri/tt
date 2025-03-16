@@ -28,6 +28,7 @@ organisations:
         members:
           - hacker-lisa
           - cyber-ryan
+          - security-myan
         repositories:
           auth-system: admin
           security-scanner: write
