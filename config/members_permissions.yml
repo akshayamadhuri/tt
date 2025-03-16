@@ -1,0 +1,40 @@
+organisations:
+  holdex-tech:
+    teams:
+      backend-devs:
+        members:
+          - dev-john
+          - sophia-codes
+        repositories:
+          payments-api: write
+          orders-service: read
+      frontend-devs:
+        members:
+          - emily-ui
+          - alex-react
+        repositories:
+          web-dashboard: write
+          orders-service: read
+      devops:
+        members:
+          - cloud-ninja
+          - infra-mike
+        repositories:
+          infra-setup: admin
+          monitoring-tools: write
+  fintech-labs:
+    teams:
+      security-engineers:
+        members:
+          - hacker-lisa
+          - cyber-ryan
+        repositories:
+          auth-system: admin
+          security-scanner: write
+      data-scientists:
+        members:
+          - ai-geek
+          - data-wizard
+        repositories:
+          recommendation-engine: write
+          analytics-dashboard: read
